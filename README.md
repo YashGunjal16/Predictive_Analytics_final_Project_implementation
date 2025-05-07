@@ -22,3 +22,65 @@ Predictive_Analytics_final_Project_implementation/
 ├── README.md                                     
 ├── Project Report
 └── Proposed Reserch Paper
+
+🧰 Tech Stack
+Tool / Library	Purpose
+🐍 Python	Programming language
+📦 TensorFlow	Deep learning and MoViNet models
+🧠 TF Hub	Pretrained MoViNet access
+🎞 OpenCV	Video loading and frame extraction
+📊 Matplotlib	Plotting and visualization
+📚 Jupyter	Notebook-based development
+
+🚀 Getting Started
+🔧 Installation
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/YashGunjal16/Predictive_Analytics_final_Project_implementation.git
+cd Predictive_Analytics_final_Project_implementation
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+▶️ Run the Notebook
+Launch Jupyter and open the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook Trained_movinets_notebook_PA_Project.ipynb
+⚠️ Make sure your video dataset is structured and paths are correctly referenced in the notebook.
+
+📽 Sample Use Case
+🔍 Recognizing human actions such as jumping, running, walking, or sitting from short video clips.
+
+📱 Future-ready for real-time use cases on mobile or edge devices.
+
+📈 Results & Insights
+✅ Used: MoViNet-A0 pretrained on Kinetics-600.
+
+📉 Achieved strong classification performance on small test datasets.
+
+⚡ Designed for efficiency and rapid inference.
+
+🚧 Future Enhancements
+🔴 Live webcam integration for real-time activity detection
+
+🏋️ Train on larger video datasets (UCF101, HMDB51)
+
+📲 Deploy as a Streamlit or Flask web app
+
+🔍 Combine with pose estimation for precision
+
+👤 Author
+Yash Gunjal
+📬 YashGunjal16 (GitHub)
+
+📜 License
+This project is licensed under the MIT License.
+Feel free to use and modify — but do credit!
