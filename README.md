@@ -34,16 +34,16 @@ This project leverages **MoViNets (Mobile Video Networks)** to classify human ac
 
 Clone the repo:
 
-```bash
+bash
 git clone https://github.com/YashGunjal16/Predictive_Analytics_final_Project_implementation.git
 cd Predictive_Analytics_final_Project_implementation
 
-## 📽 Sample Use Case
+### 📽 Sample Use Case
 
 - 🔍 Recognizing human actions such as jumping, running, walking, or sitting from short video clips.
 - 📱 Future-ready for real-time use cases on mobile or edge devices.
 
----
+
 
 ## 📈 Results & Insights
 
